@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- meta -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Activities</title>
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <link href="lib/hover/hover.min.css" rel="stylesheet">
+
+  <!-- Blog Stylesheet File -->
+  <link href="css/blog.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- Responsive css -->
+  <link href="css/responsive.css" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="images/favicon.png">
+
+</head>
+
+<body>
+
+  <!-- start section navbar -->
+  <nav id="main-nav-subpage" class="subpage-nav">
+    <div class="row">
+      <div class="container">
+
+        <div class="logo">
+          <a href="index.html"><img src="images/logo.jpg" alt="logo"></a>
+        </div>
+
+        <div class="responsive"><i data-icon="m" class="ion-navicon-round"></i></div>
+
+        <ul class="nav-menu list-unstyled">
+          <li><a href="index.html" class="smoothScroll">Home</a></li>
+                </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End section navbar -->
+  <!-- start section main content -->
+  <div class="main-content paddsection">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="row">
+            <div class="container-main single-main">
+              <div class="col-md-12">
+                <div class="block-main mb-30">
+                  <img src="images/blog-post-2.jpg" width="728" class="img-responsive" alt="reviews2">
+                  <div class="content-main single-post padDiv">
+                    <div class="journal-txt">
+                      <h4><a href="#">Activity 1</a></h4>
+                    </div>
+                    <div class="post-meta">
+                      <ul class="list-unstyled mb-0">
+                        <li class="date">date:<a href="#">June 25, 2019</a></li>
+                      </ul>
+                    </div>
+                    <p class="mb-30">I’m Cienna Christine Catayong Salvio and I’m currently 19 years old. My friends call me “Cienna” or
+                        sometimes just “Cien”. I graduated SHS here in Asia Pacific College. During my free time, I usually watch
+                        American movies and tv series. I live with my family at Pasay City. My family is composed of four people;
+                        my mom, my dad, and my sister. I am the youngest member of our family. Being the youngest is the best
+                        part of having a sibling. My sister and mom would always give me what I want even if sometimes I feel
+                        that I don’t deserve it.</p>
+                    <p class="mb-30">When I was still in my mom’s tummy, the ultrasound result said that I am a boy so my family prepared
+                        for a baby boy. My dad was so happy because he always wanted a baby boy. They named me “Christian
+                        Carlos” and they bought all blue colored things for a baby boy. The day when I was born, they were all
+                        surprised because I turned out to be a baby girl. The “Christian” became “Christine” and the “Cienna”
+                        was followed from my sister’s name “Czarina”. Aside from having different sets of friends and best
+                        friends, my sister is also one of my best friends. We both love to travel. We’ve been in different places
+                        around here in the Philippines. She would always take the expenses and let me enjoy the things that I
+                        didn’t expect to experience like buying me concert tickets, buying me clothes, and even gadgets. We
+                        also love to stroll and explore the different type of foods. She always has time for us to bond and satisfy
+                        my taste buds. I always love hanging out with her because it’s the time that I got to know her.
+                        I always got excited when travelling especially when at the beach. I always feel that there’s part of me
+                        that I didn’t know and somehow little by little I got to know what it is. I feel so relaxed when the water
+                        splashes into my body. I enjoy travelling with the people who are close in my heart but someday I wish I
+                        could travel alone just for an experience. Keeping my friends are the best decision that I’ve made
+                        because they never let me feel that I’m alone. I always feel loved by them even though some of them
+                        are away.</p>
+                    
+                    <p class="mb-30">I expect that this class will be fun and enjoyable that will help me enhance my skills in programming,
+                        skills in designing and even my personality. I hope that this class will help me build my future in terms of
+                        being proper educated and prepared for the future.</p>
+                  </div>
+                </div>
+              </div>
+
+<div class="main-content paddsection">
+    <div class="container">
+
+          <div class="row">
+            <div class="container-main single-main">
+              <div class="col-md-12">
+                <div class="block-main mb-30">
+                  <img src="images/31.jfif" width="728" class="img-responsive" alt="reviews2">
+                  <div class="content-main single-post padDiv">
+                    <div class="journal-txt">
+                      <h4><a href="#">ACTIVITY 2</a></h4>
+                    </div>
+                    <div class="post-meta">
+                      <ul class="list-unstyled mb-0">
+                        <li class="date">date:<a href="#">June 28, 2019</a></li>
+                      </ul>
+                    </div>
+                    <img src="images/a2.PNG width="680" class="img-responsive">
+                    <img src="images/a2b.PNG" width="680" class="img-responsive">
+                    <img src="images/a2c.PNG" width="680" class="img-responsive">
+                    <img src="images/a2d.PNG" width="680" class="img-responsive">
+
+                  </div>
+                </div>
+              </div>
+
+<div class="main-content paddsection">
+    <div class="container">
+
+          <div class="row">
+            <div class="container-main single-main">
+              <div class="col-md-12">
+                <div class="block-main mb-30">
+                  <img src="images/3.jpg" width="728" class="img-responsive" alt="reviews2">
+                  <div class="content-main single-post padDiv">
+                    <div class="journal-txt">
+                      <h4><a href="#">ACTIVITY 3</a></h4>
+                    </div>
+                    <div class="post-meta">
+                      <ul class="list-unstyled mb-0">
+                        <li class="date">date:<a href="#">July 09, 2019</a></li>
+                      </ul>
+                    </div>
+                    <img src="images/a3a.PNG" width="680" class="img-responsive">
+                    <img src="images/a3b.PNG" width="680" class="img-responsive">
+                    <img src="images/a3c.PNG" width="680" class="img-responsive">
+                    <img src="images/a3d.PNG" width="680" class="img-responsive">
+                    <img src="images/a3e.PNG" width="680" class="img-responsive">
+                    <img src="images/a3f.PNG" width="680" class="img-responsive">
+                    <img src="images/a3g.PNG" width="680" class="img-responsive">
+                    <img src="images/a3h.PNG" width="680" class="img-responsive">
+                  </div>
+                </div>
+              </div>
+
+<div class="main-content paddsection">
+    <div class="container">
+
+          <div class="row">
+            <div class="container-main single-main">
+              <div class="col-md-12">
+                <div class="block-main mb-30">
+                  <img src="images/32.png" width="728" class="img-responsive" alt="reviews2">
+                  <div class="content-main single-post padDiv">
+                    <div class="journal-txt">
+                      <h4><a href="#">ACTIVITY 4</a></h4>
+                    </div>
+                    <div class="post-meta">
+                      <ul class="list-unstyled mb-0">
+                        <li class="date">date:<a href="#">July 23, 2019</a></li>
+                      </ul>
+                    </div>
+                    <p class="mb-30">Need Finding </p>
+                    <p class="mb-30" <li> Problem:
+                          <br>
+                          • Students who commit offenses (major and minor) doesn’t meet the consequences of their action.
+                          <br>
+                          • Students lack in participation when it comes to violation reports.
+                          <br>
+                          • Students tend to keep quiet when their friends violate rules.
+                          <br>
+                          • Reporting directly through the discipline office can be a hassle for the students and they are afraid to expose their identity.
+                          <br>
+                          • Students are unaware of how many offenses they already accumulated/committed.
+                          <br>
+                          • Students didn’t know if their report for some faulty equipment was acknowledged.
+                          <br>
+                          • Problems/Offenses inside the school campus is not reported to the different offices that handles certain issues. 
+                          <br>
+                          • Students tend to ignore issues in the school campus. 
+                          <br>
+                          • Minor issues/offences lead to bigger problems.
+                          <br>
+                          • Noticed damages on equipment may lead to unusable equipment if not reported immediately.
+                          </p>
+                    
+                    <p class="mb-30">Needs:
+                      <br>
+                      • Fairness to all students. Student who violate should be sanctioned accordingly.
+                      <br>
+                      • An easy way to report violation without risking the student’s identity.
+                      <br>
+                      • Send reports regarding any problems/issues to the different offices. 
+                      <br>
+                      • Decrease any problems/issues in the school campus.
+                      <br>
+                      • Encourages students to be aware and knowledgeable to different problems. 
+
+                    </p>
+
+                     <p class="mb-30" <li> Solution:
+                          <br>
+                        • Create a mobile application for the users to capture, compile, and send evidences about a problem that strengthens their report to the different offices that handles certain issues. 
+                        <br>
+                        1.  The application will be a platform for sending emails with pictures (optional) regarding the problem to a certain office. 
+                        <br>
+                        • Major and Minor Offenses reports are to be send to Discipline Office.
+                        <br>
+                        • Faulty room equipment reports are to be send to Building Admin Office.
+                        <br>
+                        • Faulty hardware or software reports are to be send to the ITRO.
+                        <br>
+                        2.  The application will indicate the subject of the problem to be specific in identifying the problem and compiling about that certain issue. 
+                        <br>
+                        • Create a web application for the different offices to view the reports about different issues sent by different users in the school campus. 
+                        <br>
+                        1.  The web application will be the platform of the offices on viewing the sent problems by different users. 
+                        <br>
+                        2.  The application will sort the problem base on the minor offences/issues or major offences/issues.
+                        <br>
+                        3.  The offices will reply to the sender if the report was already acknowledged or fixed.
+                        </p>
+
+                        <p class="mb-30">Why do we need to solve this problem? 
+                      <br>
+                     •  To maintain the quality and the effectivity of the education/facilities.
+                     <br>
+                    • To reduce the problems/issues that may have a long-term effect of each individual.
+                    <br> 
+                    • To make other students be aware of what is happening in the school campus. 
+                    <br>
+                    • To encourage students to help one another in reporting/solving a problem. 
+                    </p>
+
+                     <p class="mb-30">How did we notice this problem? 
+                      <br>
+                      • Some problems/issues were not aided/solved until now. 
+                      <br>
+                      • Problems/issues that seem to be low are being ignored. 
+                      <br>
+                      • No one has the strength in reporting different kinds of problem (whether it would be a major or minor offense). 
+                    </p>
+
+                    <p class="mb-30">What were other options you considered, and why did you choose this solution?
+                      <br>
+                      • The usual option we considered was to report a problem directly to the Disciplinary Office using the Microsoft Outlook, but that can be dumped by other emails so we thought of different solutions.
+                      <br> 
+                      • We chose this solution to raise awareness inside the school campus and to give a voice to the students who sees a problem. 
+                      <br>
+                      • We think that in this solution, we can solve numerous cases/issues/problems because it is easier to send a report to the Disciplinary Office.
+                    </p>
+
+                    <p class="mb-30">Example 1: 
+                      <br>
+                    Your friends keep on cheating during major exams (midterms and finals). As an honor student, they keep on asking your answers and you cannot decline them since they are your friends. You feel violated and you think it is unfair that they got the score that they didn’t deserve. You are afraid to report them to the guidance office because they will know who reported them. You don’t want them to know that you are the one who reported them but you can’t stand what they are doing. What would you do about this?</p>
+
+                    <p class="mb-30">With the help of this application, you were able to report your friends without risking your identity. You logged in using your APC account. You secretly take a video on your friends while they are cheating on a quiz. You uploaded the video and sent it to the Discipline Office. Only the Discipline Office can see and view the reports that were submitted. You friends were called by the Discipline Office and sanctioned them accordingly for the major offense that they violate. They didn’t know who reported them. By reporting them to the Disicipline Office, you helped remained the integrity of the school and helped enhanced the quality of school.</p>
+
+                    <p class="mb-30">Example 2: 
+                      <br>
+                  Before you go home from a class, you noticed that the aircon inside your classroom suddenly produced a cracking sound inside it. You don’t know where to report it, either from the guards, discipline office, building admin, or the guidance office. </p>
+
+                    <p class="mb-30">With the application, you captured a video of the aircon in which you can hear the cracking sound. You sent your report to the application. The next day you were in the different class, you didn’t know if the aircon that you report was fixed. You decided to check it if it was already fixed. Before going to the room, suddenly your phone received a notification. It was a notification from the Building Admin that your report was acknowledge and was already fixed. </p>
+
+
+                  </div>
+                </div>
+              </div>
+
+<div class="main-content paddsection">
+    <div class="container">
+
+          <div class="row">
+            <div class="container-main single-main">
+              <div class="col-md-12">
+                <div class="block-main mb-30">
+                  <img src="images/31.jfif" width="728" class="img-responsive" alt="reviews2">
+                  <div class="content-main single-post padDiv">
+                    <div class="journal-txt">
+                      <h4><a href="#">ACTIVITY 5</a></h4>
+                    </div>
+                    <div class="post-meta">
+                      <ul class="list-unstyled mb-0">
+                        <li class="date">date:<a href="#">June 28, 2019</a></li>
+                      </ul>
+                    </div>
+                    <img src="images/a5.PNG" width="680" class="img-responsive">
+
+
+                  </div>
+                </div>
+              </div>
+              
+
+  <!-- start section footer -->
+  <div id="footer" class="text-center">
+    <div class="container">
+     
+      <p>&copy; Copyrights All rights reserved.</p>
+
+      <div class="credits">
+                Credits to the designer.</a>
+      </div>
+
+    </div>
+  </div>
+  <!-- End section footer -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/typed/typed.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/magnific-popup/magnific-popup.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
